@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">prueba_Git</string>
+    <string name="boton">Pulsa</string>
 </resources>
